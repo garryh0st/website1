@@ -6,7 +6,8 @@ html{
 
 .div1{
     background-image:url('d0o107bmuck11.gif');
-    height: 100%;
+    max-width:100%;
+    height:auto;
     background-attachment: fixed;
     background-position:center;
     background-repeat:no-repeat;
